@@ -1,8 +1,3 @@
-
-# 
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
 # DIO - Desafio 1 com .NET 
 www.dio.me
 
